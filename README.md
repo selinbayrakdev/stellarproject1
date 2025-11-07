@@ -1,3 +1,5 @@
+# stellarproject1
+
 # 🎯 Decentralized Prediction Market
 
 A fully decentralized prediction market built on Stellar Soroban** blockchain. Bet on real-world events with complete transparency, trustless resolution, and fair odds.
@@ -182,3 +184,5 @@ MIT License - feel free to use this for your own projects!
 
 Built with ❤️ using Stellar Soroban
 # Stellar-Decentralized-Prediction-Market
+# predection-market
+
